@@ -23,7 +23,7 @@ A collection of Scriptable Widgets for the iOS Lockscreen (introduced in iOS 16)
 - tap the placeholder to choose the script you just saved earlier
 
 ## Thanks
-Many thanks to [@simonbs](https://twitter.com/simonbs) who builds fantastic apps like [Scriptable](https://scriptable.app).
+Many thanks to [@simonbs](https://twitter.com/simonbs) who builds fantastic apps like [Scriptable](https://scriptable.app). And thanks to [@Jishi](https://github.com/jishi) for the extremely useful Sonos http api.
 
 ## Disclaimer
 I have no affiliation with Sonos and built this just for fun on my free time. This is not an official product.
