@@ -3,7 +3,7 @@ const SONOS_BASE_URL = "http://192.168.178.10:5005"
 // the sonos speaker name to monitor
 const SONOS_ROOM = "kitchen"
 
-const SONOS_IMG_URL = "https://pisces.bbystatic.com/image2/BestBuy_US/Gallery/sonos_logo_white_2.png"
+const SONOS_IMG_URL = "https://i.imgur.com/Truqs6P.png"
 let nowPlaying = await loadNowPlaying()
 let widget = await createWidget(nowPlaying)
 widget.url = "sonos://"
