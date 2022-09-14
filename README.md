@@ -22,6 +22,8 @@ A collection of Scriptable Widgets for the iOS Lockscreen (introduced in iOS 16)
 - choose an element beneath the clock and add a scriptable widget placeholder
 - tap the placeholder to choose the script you just saved earlier
 
+For the sonos-group-button script, you can assign this SonosBot shortcut to it by [downloading](https://www.icloud.com/shortcuts/3a5f7e0db88d4bb6875d50d700a9c3ce) the shortcut and then choosing "When interacting: Open URL". Insert this URL: shortcuts://run-shortcut?name=SonosBot
+
 ## Thanks
 Many thanks to [@simonbs](https://twitter.com/simonbs) who builds fantastic apps like [Scriptable](https://scriptable.app). And thanks to [@Jishi](https://github.com/jishi) for the extremely useful Sonos http api.
 
