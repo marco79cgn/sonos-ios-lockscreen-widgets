@@ -2,7 +2,7 @@
 A collection of Scriptable Widgets for the iOS Lockscreen (introduced in iOS 16)
 
 
-<img src="user-images.githubusercontent.com/9810829/190201505-2b73f30a-7b32-4e38-9152-2d705bdf8daa.jpg" width="400"/>
+<img src="https://user-images.githubusercontent.com/9810829/190201505-2b73f30a-7b32-4e38-9152-2d705bdf8daa.jpg" width="400"/>
 
 ## Requirements
 
