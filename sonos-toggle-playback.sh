@@ -1,7 +1,6 @@
-// Variables used by Scriptable.
-// These must be at the very top of the file. Do not edit.
-// icon-color: orange; icon-glyph: play;
+// the node sonos http api base url (running on your Pi for example)
 const SONOS_BASE_URL = "http://192.168.178.10:5005"
+// the sonos speaker name to monitor - choose your group coordinator
 const SONOS_ROOM = "kitchen"
 
 let widget = await createWidget()
