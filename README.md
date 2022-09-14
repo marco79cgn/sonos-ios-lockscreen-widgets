@@ -8,7 +8,6 @@ A collection of Scriptable Widgets for the iOS Lockscreen (introduced in iOS 16)
 
 - iOS 16 (or later)
 - [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188) app 1.7 (188) or later - still in beta until now!
-
 - [node-sonos-http-api](https://github.com/jishi/node-sonos-http-api) installed e.g. on a raspberry pi
 
 ## Installation
